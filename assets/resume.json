@@ -1,0 +1,74 @@
+{
+    "contact": {
+      "name": "Emmanuel Sitamon",
+      "email": "sitamonemmanuel@gmail.com",
+      "phone": "346-288-3856",
+      "location": "Houston, TX",
+      "linkedin": "linkedin.com/in/emmanuel-sitamon"
+    },
+    "summary": "Software Engineer with 5 years of experience in developing and maintaining data solutions for the oil and gas industry. Skilled in Java, Python, SQL, AWS, Azure, and other technologies. Certified AWS Solution Architect Associate and bilingual in French and English.",
+    "experience": [
+      {
+        "company": "IKON SCIENCE",
+        "position": "Software Engineer",
+        "dates": "August 2021 - Present",
+        "location": "Houston, TX",
+        "responsibilities": [
+          "Developed Rest APIs service using Python on top of AWS services to expose wellbore and seismic data, enabling collaboration across continents and empowering Petro physicists.",
+          "Built custom data processing ETL services to handle parsing of subsurface data from LAS, DLIS, and WITSML files, automating loading into AWS-based and on-premises data warehouses.",
+          "Built quality gates within the ETL pipeline to standardize log data and validate it against petrophysical criteria for reliable data used in oil and gas well modeling.",
+          "Contributed to development of a knowledge management SaaS software for oil & gas wellbore data management using Java/Spring Boot, ReactJS, NoSQL, and SQL.",
+          "Developed a data processing software, 'autoloader,' for parsing subsurface data from flat files and automating loading into a data warehouse, using Python and SQL.",
+          "Implemented data virtualization solutions with Denodo and Java for unified data access to various subsurface oil and gas data types.",
+          "Managed subsurface data warehouse with Oracle DB and internal tools.",
+          "Integrated data into the Open Subsurface Data Universe (OSDU) platform on AWS using Python.",
+          "Developed a GUI-based log monitoring software with Java/JavaFX for user-friendly feedback and bug monitoring.",
+          "Produced technical documentation and user manuals for data solutions services.",
+          "Built an Azure DevOps pipeline using ant script and SonarQube, managed the Azure DevOps repository for custom features, and acted as product owner for multiple clients."
+        ]
+      },
+      {
+        "company": "HONEYWELL",
+        "position": "System Integration Technician",
+        "dates": "April 2020 - August 2021",
+        "location": "Houston, TX",
+        "responsibilities": [
+          "Deployed, configured, managed, and troubleshooted Honeywell on-premises Optical Gas Cloud imaging software and camera using Python and Ansible.",
+          "Developed internal software tools for manufacturing using Python and Node.js/JavaScript.",
+          "Reduced server setup lead time by 60% through process automation with Ansible.",
+          "Configured, administered, and supported clients' on-premises crystal-rugged RS2606 2U Linux servers with Honeywell proprietary software, managing 50+ servers per week.",
+          "Traveled to customer sites for system investigation and fix deployment (20% of the time).",
+          "Developed Python scripts for deployment, log management, and troubleshooting for field service technicians and engineers.",
+          "Created operating documentation and explanatory video instructions in French for the Honeywell French team."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lamar University",
+        "degree": "BS in Computer Science",
+        "graduation_date": "May 2022",
+        "location": "Houston, TX"
+      },
+      {
+        "institution": "Houston Community College",
+        "degree": "AAS in Computer Science",
+        "graduation_date": "December 2019",
+        "location": "Houston, TX"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solution Architect Associate"
+      }
+    ],
+    "skills": {
+      "programming_languages": ["Java", "Python", "HTML/CSS", "JavaScript", "Node.js", "React.js"],
+      "databases": ["Oracle", "PostgreSQL", "MySQL", "MongoDB", "Denodo"],
+      "cloud_platforms": ["AWS", "Azure", "Terraform", "Docker", "Kubernetes", "SonarQube"],
+      "frameworks_and_tools": ["Spring Boot", "JPA", "FastAPI", "Mockito", "RabbitMQ", "Kafka", "SQLAlchemy", "Ansible", "Azure DevOps", "Jenkins"],
+      "data_formats": ["Core images", "LAS files", "OLIS files", "XLS", "CSV", "OSDU"],
+      "languages": ["French (Native)", "English (Native)"]
+    }
+  }
+  
